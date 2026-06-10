@@ -54,7 +54,7 @@ It was founded by **Narendra Sharma**, an AI engineering leader and creator of *
 ## Connect with us
 
 * [RSAI Academy website](https://academy.rhythmicsouls.ai)
-* [RSAI Academy on LinkedIn](https://www.linkedin.com/showcase/rhythmic-souls-ai-academy/)
+* [RSAI Academy on LinkedIn](https://www.linkedin.com/showcase/rsai-academy/)
 * [GEEKNaren on YouTube](https://www.youtube.com/@geeknaren)
 
 ---
